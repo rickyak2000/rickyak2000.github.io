@@ -1,0 +1,14 @@
+ {
+      "version": "1.3.4",
+      "build": 8,
+      "minSupportedBuild": 1,
+      "isMandatory": false,
+      "title": "Pembaruan Alkimia Terbaru!",
+      "changelog": [
+        "Pembaruan tata letak orbs ergonomis bebas halangan botol",
+        "Pemeriksaan pembaruan otomatis via Sanctum Cloud",
+        "Cairan sewarna menyatu 100% mulus tanpa sekat",
+        "Audio ASMR nada Do-Mi-Sol-Do dan Mode Zen"
+      ],
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.damian.aetheria.watersort"
+    }
