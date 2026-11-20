@@ -1,14 +1,14 @@
 {
-  "version": "1.4.1",
-  "build": 17,
+  "version": "1.5.0",
+  "build": 28,
   "minSupportedBuild": 1,
   "isMandatory": false,
-  "title": "Aetheria Makin Seru!",
+  "title": "Dataran Kutub Menanti!",
   "changelog": [
-    "BARU: Bab V Singgasana Aetheria, musik tiap bab & lemari tema latar",
-    "BARU: Profil dengan misi harian/mingguan, 15 prestasi & peringkat teman",
-    "BARU: Toko Hadiah Gratis, Event Pekan Ini, level Langkah Terbatas & Kilat",
-    "PERBAIKAN: level kelipatan 5 tidak lagi macet setelah menang, Hint lebih pintar, cadangan akun lengkap, tampilan lebih rapi"
+    "BARU: Bab VI Dataran Kutub dengan 4 bos beku, tema es, salju & musik baru",
+    "BARU: Pekan Kutub, event dengan hadiah skin tabung Kristal Es Kutub",
+    "BARU: Tiap bos kutub punya aturan khas: tabung bisa membeku sementara",
+    "PERBAIKAN: tombol Back menutup dialog, tampilan dirapikan & terjemahan diperluas"
   ],
   "storeUrl": "https://play.google.com/store/apps/details?id=com.damian.aetheria.watersort"
 }
